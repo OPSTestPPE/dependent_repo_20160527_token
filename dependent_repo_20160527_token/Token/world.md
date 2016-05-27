@@ -1,1 +1,1 @@
-# Index test file for Open Publishing
+World token from repository file: https://github.com/fenxu/dependent_repo_20160527_token/blob/master/dependent_repo_20160527_token/Token/world.md
